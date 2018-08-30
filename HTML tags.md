@@ -35,13 +35,13 @@ time - <time datetime="2014-04-20">Вчера</time> мы готовили ку�
 
 * input
 
- ⋅⋅* type
+ ..* type
         text
         password
         submit
         file
 
- ⋅⋅* name
+ ..* name
 
 ⋅⋅* id
 
