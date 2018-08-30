@@ -8,15 +8,14 @@ footer - подвал, подвал статьи и т.п.
 form - основной парный тэг
     action - задает адрес url
     method - метод отправки get или post
+    
 input
+
     type
+
     name
+
     id
+
     value - значение по умолчанию
-    Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
