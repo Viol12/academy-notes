@@ -1,7 +1,7 @@
 # Html tags
 ***
 ## Ключевые слова и описание
-meta - мета-тег
+meta` - 'мета-тег'
 
 meta name="keywords" content="разные, ключевые, слова"
 ***
@@ -72,23 +72,22 @@ audio
 ## Формы
 * form - основной парный тэг
 
-** enctype - значение multipart/form-data (для работы отправки файла)
+    - enctype - значение multipart/form-data (для работы отправки файла)
 
-** action - задает адрес url
+    - action - задает адрес url
  
-** method - метод отправки get или post
+    - method - метод отправки get или post
 
 * input
 
- ..* type
+    - type
         text
         password
         submit
         file
 
- ..* name
+    - name
+    - id
 
-⋅⋅* id
-
-⋅⋅* value - значение по умолчанию
+    - value - значение по умолчанию
 
