@@ -74,6 +74,7 @@
     file
     checkbox
     radio (одинаковое имя и разное value)
+    hidden
 
 - name
 - id
@@ -84,10 +85,12 @@
 * name
 * id
 * row - высота в строках
+* cols - ширина поля в пикселах
 
 `select`
 * name
 * multiple
+* size
 
 `<select name="theme"><option value="light" selected>Светлая тема</option><option value="dark">Тёмная тема</option></select>`
 
